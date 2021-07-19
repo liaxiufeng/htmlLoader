@@ -1,0 +1,29 @@
+log    2021-07-19 21:06:29
+------------------匹配失败(prefix, home, suffix, fileType)------------------------------------------
+--   
+--   
+--   
+--   html
+-------------------------------------------------------------------
+读取链接   -->   http://code_demo.99yuanma.net:8889/code_demo/6071d8b7513fd/index.html
+保存文件(saveCommonFile)   html   http://code_demo.99yuanma.net:8889/code_demo/6071d8b7513fd/index.html   ==》   D:/desktop/runtime/pythonLoader/txt/editor/index.html
+读取链接   -->   http://code_demo.99yuanma.net:8889/code_demo/6071d8b7513fd/index.html
+读取链接   -->   http://code_demo.99yuanma.net:8889/code_demo/6071d8b7513fd/codemirror/lib/codemirror.css
+保存文件(saveCommonFileWithContext)   css   D:/desktop/runtime/pythonLoader/txt/editor/codemirror/lib/codemirror.css
+读取链接   -->   http://code_demo.99yuanma.net:8889/code_demo/6071d8b7513fd/codemirror/theme/monokai.css
+保存文件(saveCommonFileWithContext)   css   D:/desktop/runtime/pythonLoader/txt/editor/codemirror/theme/monokai.css
+读取链接   -->   http://code_demo.99yuanma.net:8889/code_demo/6071d8b7513fd/codemirror/lib/codemirror.js
+保存文件(saveCommonFileWithContext)   js   D:/desktop/runtime/pythonLoader/txt/editor/codemirror/lib/codemirror.js
+读取链接   -->   http://code_demo.99yuanma.net:8889/code_demo/6071d8b7513fd/codemirror/addon/edit/closetag.js
+保存文件(saveCommonFileWithContext)   js   D:/desktop/runtime/pythonLoader/txt/editor/codemirror/addon/edit/closetag.js
+读取链接   -->   http://code_demo.99yuanma.net:8889/code_demo/6071d8b7513fd/codemirror/mode/xml/xml.js
+保存文件(saveCommonFileWithContext)   js   D:/desktop/runtime/pythonLoader/txt/editor/codemirror/mode/xml/xml.js
+读取链接   -->   http://code_demo.99yuanma.net:8889/code_demo/6071d8b7513fd/codemirror/mode/javascript/javascript.js
+保存文件(saveCommonFileWithContext)   js   D:/desktop/runtime/pythonLoader/txt/editor/codemirror/mode/javascript/javascript.js
+读取链接   -->   http://code_demo.99yuanma.net:8889/code_demo/6071d8b7513fd/codemirror/mode/css/css.js
+保存文件(saveCommonFileWithContext)   js   D:/desktop/runtime/pythonLoader/txt/editor/codemirror/mode/css/css.js
+读取链接   -->   http://code_demo.99yuanma.net:8889/code_demo/6071d8b7513fd/codemirror/mode/htmlmixed/htmlmixed.js
+保存文件(saveCommonFileWithContext)   js   D:/desktop/runtime/pythonLoader/txt/editor/codemirror/mode/htmlmixed/htmlmixed.js
+读取链接   -->   http://code_demo.99yuanma.net:8889/code_demo/6071d8b7513fd/code-blast.js
+保存文件(saveCommonFileWithContext)   js   D:/desktop/runtime/pythonLoader/txt/editor/code-blast.js
+
